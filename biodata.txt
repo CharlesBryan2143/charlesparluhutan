@@ -1,0 +1,5 @@
+biodata
+
+nama : Charles parluhutan
+kelas :4ia22
+npm : 50421306
